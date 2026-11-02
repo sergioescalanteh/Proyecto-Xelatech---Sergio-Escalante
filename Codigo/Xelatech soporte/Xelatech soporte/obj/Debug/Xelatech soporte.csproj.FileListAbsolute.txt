@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\bin\Debug\Xelatech soporte.exe.config
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\bin\Debug\Xelatech soporte.exe
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\bin\Debug\Xelatech soporte.pdb
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\obj\Debug\Xelatech soporte.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\obj\Debug\Xelatech soporte.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\obj\Debug\Xelatech soporte.exe
+C:\Users\ACER\Desktop\Xelatech soporte\Xelatech soporte\obj\Debug\Xelatech soporte.pdb
